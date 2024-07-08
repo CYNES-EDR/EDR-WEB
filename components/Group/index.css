@@ -1,0 +1,39 @@
+.event-range-padding .ant-picker-range {
+  padding: 7px;
+}
+.dark .ant-statistic-content-value-int {
+  color: white;
+}
+
+.ant-badge.ant-badge-status
+  .ant-badge-status-dot {
+  width: 29px !important;
+
+  border-radius: 2px !important;
+}
+
+.dark .ant-pagination-item-link svg {
+  fill: white;
+}
+
+.react-json-view {
+  background-color: white !important;
+}
+
+.react-json-view .object-key {
+  color: #222f3e !important;
+}
+.dark .ant-select-selection-item-content {
+  color: white !important;
+}
+.ant-select-arrow {
+  display: none !important;
+}
+/* .dark .object-key {
+  color: white !important;
+}
+
+
+.dark .object-key > span {
+  color: white !important;
+} */

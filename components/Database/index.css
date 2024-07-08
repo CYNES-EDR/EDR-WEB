@@ -1,0 +1,41 @@
+.event-range-padding .ant-picker-range {
+  padding: 7px;
+}
+.dark .ant-statistic-content-value-int {
+  color: white;
+}
+
+.ant-badge.ant-badge-status
+  .ant-badge-status-dot {
+  width: 29px !important;
+
+  border-radius: 2px !important;
+}
+
+.dark .ant-pagination-item-link svg {
+  fill: white;
+}
+.dark
+  .ant-table-wrapper
+  .ant-table-row-expand-icon::before,
+.ant-table-wrapper
+  .ant-table-row-expand-icon::after {
+  background: black !important;
+}
+
+.ant-drawer .ant-drawer-body {
+  padding: 0px;
+}
+
+.dark .ant-select-selector {
+  background-color: rgb(36 48 63 / var(--tw-bg-opacity)) !important;
+  color: rgb(222 228 238 / var(--tw-text-opacity)) !important;
+}
+.dark .ant-tabs-tab {
+  color: white;
+  opacity: 0.8;
+}
+
+.dark .ant-tabs-nav-list div[aria-selected="true"] {
+  color: black !important;
+}

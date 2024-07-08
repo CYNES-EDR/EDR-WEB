@@ -1,0 +1,387 @@
+.logo-left {
+  background-image: url("/images/Login/background-image.png");
+  object-fit: cover;
+  height: 90vh;
+  background-position: center;
+}
+.login-form {
+  width: 100%;
+  position: relative;
+  background-color: #121416;
+  height: 90vh;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--semibold-32-size);
+  color: var(--content-content-constant);
+  font-family: var(--semibold-14);
+}
+.login-form {
+  background-image: url("/images/Login/pattern.svg");
+  -o-object-fit: cover;
+  object-fit: cover;
+  height: 90vh;
+  background-position: center;
+}
+.logo-demo-icon {
+  top: -43px !important;
+  position: relative !important;
+  left: -28px !important;
+  width: 160.9px !important;
+  height: 38px !important;
+}
+main {
+  position: relative;
+  background-color: #121416;
+  height: 100vh;
+}
+.abstract-background {
+  position: absolute;
+  top: 87vh;
+  left: 0;
+  width: 1920px;
+  height: 191px;
+  overflow: hidden;
+}
+input:focus {
+  border: 1.5px solid #19caff;
+}
+input[type="submit"] {
+  background: linear-gradient(88.5deg, #2693f5, #19caff);
+}
+.notificationtoast {
+  border-radius: 2px;
+  background-color: rgba(242, 42, 65, 0.16);
+  border: 1px solid #a01c2b;
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 5px;
+}
+.group-icon,
+.group-icon1 {
+  position: absolute;
+  height: 7.38%;
+  width: 9.58%;
+  top: 0;
+  right: 90.42%;
+  bottom: 92.62%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-icon1 {
+  height: 19.32%;
+  width: 19.72%;
+  right: 80.28%;
+  bottom: 80.68%;
+}
+.group-icon2,
+.group-icon3 {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.group-icon2 {
+  height: 100%;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-icon3 {
+  height: 24.58%;
+  width: 69.39%;
+  bottom: 75.42%;
+  left: 30.6%;
+}
+.group-icon3,
+.group-icon4,
+.group-icon5,
+.group-icon6 {
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-icon4 {
+  position: absolute;
+  height: 46.25%;
+  width: 73.07%;
+  top: 26.59%;
+  right: 26.93%;
+  bottom: 27.17%;
+  left: 0;
+}
+.group-icon5,
+.group-icon6 {
+  height: 6.1%;
+  opacity: 0.3;
+}
+.group-icon5 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 93.9%;
+  left: 0;
+}
+.group-icon6 {
+  width: 54.97%;
+  top: 44.02%;
+  right: 45.03%;
+  bottom: 49.88%;
+}
+.group-icon6,
+.group-icon7,
+.group1 {
+  position: absolute;
+  left: 0;
+}
+.group-icon7 {
+  height: 6.1%;
+  width: 4.17%;
+  top: 93.66%;
+  right: 95.83%;
+  bottom: 0.24%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.3;
+}
+.group1 {
+  height: 19.85%;
+  width: 19.64%;
+  top: 79.37%;
+  right: 80.36%;
+  bottom: 0.77%;
+}
+.group,
+.group-icon8,
+.group-icon9 {
+  position: absolute;
+  height: 43.25%;
+  width: 29.86%;
+  top: 0;
+  right: 70.14%;
+  bottom: 56.75%;
+  left: 0;
+}
+.group-icon8,
+.group-icon9 {
+  height: 100%;
+  width: 40.01%;
+  right: 59.99%;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-icon9 {
+  width: 44.94%;
+  right: 49.83%;
+  left: 5.23%;
+}
+.group-icon10,
+.group-icon11,
+.group-icon12,
+.group-icon13,
+.group-icon14,
+.group-icon15,
+.group-icon16 {
+  position: absolute;
+  height: 100%;
+  width: 44.92%;
+  top: 0;
+  right: 4.94%;
+  bottom: 0;
+  left: 50.14%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-icon11,
+.group-icon12,
+.group-icon13,
+.group-icon14,
+.group-icon15,
+.group-icon16 {
+  width: 39.72%;
+  right: 0;
+  left: 60.28%;
+}
+.group-icon12,
+.group-icon13,
+.group-icon14,
+.group-icon15,
+.group-icon16 {
+  width: 96.58%;
+  left: 3.41%;
+}
+.group-icon13,
+.group-icon14,
+.group-icon15,
+.group-icon16 {
+  height: 26.96%;
+  width: 70.07%;
+  right: 29.93%;
+  bottom: 73.04%;
+  left: 0;
+}
+.group-icon14,
+.group-icon15,
+.group-icon16 {
+  height: 50.6%;
+  width: 72.81%;
+  top: 29.16%;
+  right: 0.01%;
+  bottom: 20.24%;
+  left: 27.18%;
+}
+.group-icon15,
+.group-icon16 {
+  height: 12.2%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 87.8%;
+  left: 0;
+  opacity: 0.3;
+}
+.group-icon16 {
+  width: 52.61%;
+  top: 88.05%;
+  right: 0.05%;
+  bottom: -0.24%;
+  left: 47.34%;
+}
+.group3 {
+  position: absolute;
+  height: 10.89%;
+  width: 18.88%;
+  top: 87.07%;
+  right: 0;
+  bottom: 2.05%;
+  left: 81.13%;
+}
+.group-icon17,
+.group-icon18,
+.group2 {
+  position: absolute;
+  height: 39.42%;
+  width: 29.58%;
+  top: 0;
+  right: 0;
+  bottom: 60.58%;
+  left: 70.42%;
+}
+.group-icon17,
+.group-icon18 {
+  height: 18.85%;
+  width: 19.44%;
+  bottom: 81.15%;
+  left: 80.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-icon18 {
+  height: 6.91%;
+  width: 9.3%;
+  bottom: 93.09%;
+  left: 90.7%;
+}
+
+.art-light-icon {
+  width: 761px;
+}
+.login-1-child {
+  background-color: #1e1f24;
+}
+.login-1-child,
+.pattern-icon {
+  position: absolute;
+  top: 0;
+  left: 644px;
+  width: 796px;
+  height: 900px;
+}
+.login-to-account {
+  position: relative;
+  line-height: 40px;
+  font-weight: 600;
+}
+.enter-your-credentials {
+  position: relative;
+  font-size: var(--regular-16-size);
+  line-height: 24px;
+  color: var(--content-content-sub);
+}
+.title {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.fi-rr-cross-small-icon,
+.zoe {
+  position: relative;
+  flex-shrink: 0;
+}
+.zoe {
+  width: 324px;
+  line-height: 20px;
+  font-weight: 500;
+  display: inline-block;
+}
+.fi-rr-cross-small-icon {
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.info,
+.input-no-labelfield {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.info {
+  gap: var(--gap-base);
+}
+.border-error {
+  border: 1.5px solid #f22a41;
+}
+.form {
+  position: absolute;
+  top: 117px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  font-size: var(--semibold-14-size);
+}
+.logo-demo-icon,
+.title-parent {
+  position: absolute;
+  top: 307px;
+  left: 830px;
+  width: 404px;
+  height: 313px;
+}
+.logo-demo-icon {
+  top: 39px;
+  left: 710px;
+  width: 160.9px;
+  height: 38px;
+}
